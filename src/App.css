@@ -52,7 +52,7 @@
 
 .CanvasAndButton
 {
-  position: fixed;
+  
   z-index: 900;
   display: flex;
   flex-direction: column;
@@ -109,11 +109,6 @@
   border-radius: 300px;
 }
 
-.fillingSpace
-{
-  height: 20px;
-}
-
 @media only screen and (height >= 700px)
 {
 
@@ -163,7 +158,6 @@
 
   .CanvasAndButton
   {
-    position: fixed;
     z-index: 900;
     display: flex;
     flex-direction: column;
@@ -193,8 +187,8 @@
   {
     background-color: olivedrab;
     border: none;
-    width: 200px;
-    height: 50px;
+    width: 27dvw;
+    height: 10dvw;
     border-radius: 25px;
     margin: 20px;
   }
