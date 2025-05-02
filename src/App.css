@@ -9,7 +9,7 @@
 .picDiv
 {
   display: grid;
-  grid-column-start: 25dvh;
+  grid-column-start: 25dvw;
   grid-row:1;
 }
 
@@ -18,7 +18,7 @@
   padding: 10px;
   text-align: center;
   font-size: 0.9rem;
-  max-width: 25dvh;
+  max-width: 25dvw;
 }
 
 .step1IMG
