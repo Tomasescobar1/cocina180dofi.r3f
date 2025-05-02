@@ -176,7 +176,7 @@
     width: 20dvw;
     padding: .5dvW;
     background-color: olivedrab;
-    border-radius: 10dvw;
+    border-radius: 15dvw;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -196,7 +196,7 @@
   .R3FCanvas
   {
     background-color: whitesmoke;
-    border-radius: 225px;
+    border-radius: 10dvw;
   }
 
   .fillingSpace
