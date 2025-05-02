@@ -30,7 +30,7 @@ function Model(prop)
 
   if(rotate === true)
   {
-    checkComp = 0.001
+    checkComp = 0.003
   }
 
   return (
@@ -63,7 +63,7 @@ function Model2(prop)
 
   if(rotate === true)
   {
-    checkComp = 0.001
+    checkComp = 0.003
   }
 
   return (
@@ -96,7 +96,7 @@ function Model3(prop)
 
   if(rotate === true)
   {
-    checkComp = 0.001
+    checkComp = 0.003
   }
 
   return (
