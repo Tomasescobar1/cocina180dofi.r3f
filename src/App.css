@@ -1,6 +1,6 @@
 #root {
   display: grid;
-  grid-template-columns: minmax(27dvh, 1fr);
+  grid-template-columns: minmax(27dvw, 1fr);
   font-family: Comfortaa;
   font-size: large;
   font-weight: bold; 
@@ -43,7 +43,7 @@
 {
   display: grid;
   grid-row: 1;
-  grid-column-end: 25dvh;
+  grid-column-end: 25dvw;
   grid-row-end: 100dvh;
   /*flex-direction: column;
   align-items: flex-start;
@@ -67,8 +67,8 @@
 
 .CanvasContainer
 {
-  height: 25dvh;
-  width: 25dvh;
+  height: 25dvw;
+  width: 25dvw;
   padding: 5px;
   background-color: olivedrab;
   border-radius: 300px;
@@ -119,7 +119,7 @@
 
   #root {
     display: grid;
-    grid-template-columns: minmax(27dvh, 1fr);
+    grid-template-columns: minmax(27dvw, 1fr);
     font-family: Comfortaa;
     font-size: large;
     font-weight: bold; 
@@ -178,8 +178,8 @@
 
   .CanvasContainer
   {
-    height: 20dvh;
-    width: 20dvh;
+    height: 20dvw;
+    width: 20dvw;
     padding: 10px;
     background-color: olivedrab;
     border-radius: 255px;
