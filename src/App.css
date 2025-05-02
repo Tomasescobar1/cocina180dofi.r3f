@@ -123,7 +123,7 @@
   .picDiv
   {
     display: grid;
-    grid-column-start : 27dvh;
+    grid-column-start : 27dvw;
     grid-row:1;
   }
 
@@ -176,7 +176,7 @@
     width: 20dvw;
     padding: .5dvW;
     background-color: olivedrab;
-    border-radius: 255px;
+    border-radius: 10dvw;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
